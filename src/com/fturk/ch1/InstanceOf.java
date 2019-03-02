@@ -1,5 +1,9 @@
 package com.fturk.ch1;
 
+abstract class Animal{
+    public abstract void feed();
+}
+
 class HeavyAnimals{
  public void print(){
  }
